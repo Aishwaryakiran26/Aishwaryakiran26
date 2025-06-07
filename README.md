@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aishwarya 👋
 
-<!--
-**Aishwaryakiran26/Aishwaryakiran26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate | 🧠 Master’s in Health Data Science  
+📊 Data • Health • Tech | 💡 Curious Mind |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 About Me
+
+I’m currently pursuing a Master’s in Health Data Science, with a concentration in Bioinformatics. I’m passionate about using technology to make healthcare smarter, more efficient, and more human-centered.
+ 
+- 🔬 Interests: Python for data science, health analytics, R, machine learning, Public health, clinical AI, EHR data and tableau dashboards. 
+- 🌱 Currently exploring: Streamlit apps and NLP in healthcare. 
+
+---
+
+## 🛠 Skills
+
+- **Languages**: Python, SQL, HTML/CSS, basic R  
+- **Libraries/Tools**: Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Learning**: Streamlit, spaCy, Flask
+
+---
+
+## 🧪 What I'm Working On
+
+🚧 Building small data projects with healthcare datasets  
+📝 Learning how to write clean, readable code  
+📊 Creating dashboards to communicate health insights. 
+
+---
+
+✨ *Thanks for stopping by! Stay tuned — projects coming soon...*
