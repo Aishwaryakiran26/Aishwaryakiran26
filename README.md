@@ -1,13 +1,11 @@
 # Hi, I'm Aishwarya 👋
 
-🎓 Computer Science Graduate | 🧠 Master’s in Health Data Science  
+🎓 Computer Science Graduate  
 📊 Data • Health • Tech | 💡 Curious Mind |
 
 ---
 
 ## 🧬 About Me
-
-I’m currently pursuing a Master’s in Health Data Science, with a concentration in Bioinformatics. I’m passionate about using technology to make healthcare smarter, more efficient, and more human-centered.
  
 - 🔬 Interests: Python for data science, health analytics, R, machine learning, Public health, clinical AI, EHR data and tableau dashboards. 
 - 🌱 Currently exploring: Streamlit apps and NLP in healthcare. 
