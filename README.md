@@ -1,31 +1,47 @@
-# Hi, I'm Aishwarya 👋
+## Hello, I’m Aishwarya Kiran Magaji 👋
 
-🎓 Computer Science Graduate  
-📊 Data • Health • Tech | 💡 Curious Mind |
 
----
+🎓 Computer Science Graduate | 💡 Data, Health & Technology Enthusiast | 🌍 Building Human-Centered Tech Solutions.
 
-## 🧬 About Me
+
+
+🧬 About Me:
+
+I am passionate about harnessing technology to improve human health and wellbeing. 
+I want to work at the intersection of data science, healthcare, and FemTech, building solutions that combine technical rigor with real-world impact.
+I focus on creating data-driven insights, predictive models, and interactive dashboards that can transform health information into actionable solutions.
+
+	•	🔬 Core Interests: Clinical AI, Public Health Analytics, EHR Data, Healthcare Dashboards, FemTech Innovations
+	•	🌱 Currently Exploring: Streamlit apps, NLP in healthcare, interactive visualization, and full-stack healthcare applications
+
+
+🛠 Skills:
+
+	•	Programming & Languages: Python, SQL, HTML/CSS, R (basic)
+	•	Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tableau, Power BI
+	•	Frameworks & Platforms: Django, Flask, Streamlit, spaCy
+	•	Focus Areas: Data cleaning, visualization, ML modeling, dashboard storytelling, healthcare tech
+
+
+🧪 Current Projects:
+
+	•	Building health-focused data projects to extract actionable insights from clinical and public datasets. 
+	•	Designing interactive dashboards and visualizations for meaningful health communication.
+	•	Exploring FemTech solutions that integrate user needs with technology. 
+	•	Developing predictive models and clinical AI tools for smarter decision-making.
  
-- 🔬 Interests: Python for data science, health analytics, R, machine learning, Public health, clinical AI, EHR data and tableau dashboards. 
-- 🌱 Currently exploring: Streamlit apps and NLP in healthcare. 
 
----
 
-## 🛠 Skills
+🌟 Future Vision:
 
-- **Languages**: Python, SQL, HTML/CSS, basic R  
-- **Libraries/Tools**: Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Learning**: Streamlit, spaCy, Flask
+I aim to bridge technology and human health, focusing on solutions that empower individuals, improve patient outcomes, and address real-world healthcare challenges.
 
----
+	•	FemTech innovations for women’s health and wellbeing
+	•	Clinical AI applications for predictive and preventive healthcare
+	•	Human-centered tech solutions that combine empathy, data, and analytics
 
-## 🧪 What I'm Working On
 
-🚧 Building small data projects with healthcare datasets  
-📝 Learning how to write clean, readable code  
-📊 Creating dashboards to communicate health insights. 
+📥 Let’s Connect
+I am eager to collaborate on projects, research, or initiatives in health data science, FemTech, or AI-driven healthcare solutions.
 
----
-
-✨ *Thanks for stopping by! Stay tuned — projects coming soon...*
+✨ Thanks for visiting!!
