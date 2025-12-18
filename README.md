@@ -17,10 +17,9 @@ I focus on creating data-driven insights, predictive models, and interactive das
 
 🛠 Skills:
 
-	•	Programming & Languages: Python, SQL, HTML/CSS, R (basic)
-	•	Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tableau, Power BI
-	•	Frameworks & Platforms: Django, Flask, Streamlit, spaCy
-	•	Focus Areas: Data cleaning, visualization, ML modeling, dashboard storytelling, healthcare tech
+	•	Programming & Languages: Python, SQL, HTML, CSS, R (basic).
+	•	Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tableau, Power BI.
+	•	Focus Areas: Data cleaning, visualization, ML modeling, dashboard storytelling, healthcare tech.
 
 
 🧪 Current Projects:
